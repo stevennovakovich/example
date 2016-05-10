@@ -24,13 +24,23 @@
 	E
 
 # File marks:
-'0  3  4  /etc/apache2/sites-available/jenkins.conf
+'0  1  11  ~/README.md
+'1  3  4  /etc/apache2/sites-available/jenkins.conf
 
 # Jumplist (newest first):
+-'  1  11  ~/README.md
+-'  3  4  /etc/apache2/sites-available/jenkins.conf
+-'  1  0  /etc/apache2/sites-available/jenkins.conf
 -'  3  4  /etc/apache2/sites-available/jenkins.conf
 -'  1  0  /etc/apache2/sites-available/jenkins.conf
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
 
 > /etc/apache2/sites-available/jenkins.conf
 	"	3	4
