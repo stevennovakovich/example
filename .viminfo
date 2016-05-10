@@ -18,17 +18,23 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"1	LINE	0
 	
-"-	CHAR	0
-	E
+""-	CHAR	0
+	$
 
 # File marks:
-'0  1  11  ~/README.md
-'1  3  4  /etc/apache2/sites-available/jenkins.conf
+'0  2  22  ~/README.md
+'1  1  11  ~/README.md
+'2  3  4  /etc/apache2/sites-available/jenkins.conf
 
 # Jumplist (newest first):
--'  1  11  ~/README.md
+-'  2  22  ~/README.md
+-'  1  0  ~/README.md
+-'  3  4  /etc/apache2/sites-available/jenkins.conf
+-'  1  0  /etc/apache2/sites-available/jenkins.conf
+-'  3  4  /etc/apache2/sites-available/jenkins.conf
+-'  1  0  /etc/apache2/sites-available/jenkins.conf
 -'  3  4  /etc/apache2/sites-available/jenkins.conf
 -'  1  0  /etc/apache2/sites-available/jenkins.conf
 -'  3  4  /etc/apache2/sites-available/jenkins.conf
@@ -37,10 +43,11 @@
 # History of marks within files (newest to oldest):
 
 > ~/README.md
-	"	1	11
-	^	1	12
-	.	1	11
-	+	1	11
+	"	2	22
+	^	2	23
+	.	2	22
+	+	1	12
+	+	2	22
 
 > /etc/apache2/sites-available/jenkins.conf
 	"	3	4
