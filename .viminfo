@@ -18,46 +18,46 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"1	LINE	0
 	
 "2	LINE	0
-	    </dependencies>
+	
 "3	LINE	0
-	        </dependency>
+	    </dependencies>
 "4	LINE	0
-	           <version>4.11</version>
+	        </dependency>
 "5	LINE	0
-	           <artifactId>junit</artifactId>
+	           <version>4.11</version>
 "6	LINE	0
-	           <groupId>junit</groupId>
+	           <artifactId>junit</artifactId>
 "7	LINE	0
-	        <dependency>
+	           <groupId>junit</groupId>
 "8	LINE	0
-	    <dependencies>
+	        <dependency>
 "9	LINE	0
-	  @Test
-"-	CHAR	0
-	"
+	    <dependencies>
+""-	CHAR	0
+	o
 
 # File marks:
-'0  64  0  ~/pom.xml
-'1  7  0  ~/src/test/java/testhello/TestHelloWorld.java
-'2  1  0  ~/pom.xml
-'3  9  2  ~/src/test/java/testhello/TestHelloWorld.java
-'4  12  44  ~/src/test/java/testhello/TestHelloWorld.java
-'5  1  0  ~/src/main/java/hello/Greeter.java
-'6  1  0  ~/src/main/java/hello/HelloWorld.java
-'7  8  4  ~/pom.xml
-'8  6  33  ~/README.md
-'9  5  32  ~/README.md
+'0  1  18  ~/src/test/java/testhello/TestHelloWorld.java
+'1  64  0  ~/pom.xml
+'2  7  0  ~/src/test/java/testhello/TestHelloWorld.java
+'3  1  0  ~/pom.xml
+'4  11  2  ~/src/test/java/testhello/TestHelloWorld.java
+'5  14  44  ~/src/test/java/testhello/TestHelloWorld.java
+'6  1  0  ~/src/main/java/hello/Greeter.java
+'7  1  0  ~/src/main/java/hello/HelloWorld.java
+'8  8  4  ~/pom.xml
+'9  6  33  ~/README.md
 
 # Jumplist (newest first):
+-'  1  18  ~/src/test/java/testhello/TestHelloWorld.java
 -'  64  0  ~/pom.xml
 -'  1  0  ~/pom.xml
 -'  7  0  ~/src/test/java/testhello/TestHelloWorld.java
--'  1  0  ~/src/test/java/testhello/TestHelloWorld.java
--'  9  2  ~/src/test/java/testhello/TestHelloWorld.java
--'  12  44  ~/src/test/java/testhello/TestHelloWorld.java
+-'  11  2  ~/src/test/java/testhello/TestHelloWorld.java
+-'  14  44  ~/src/test/java/testhello/TestHelloWorld.java
 -'  1  0  ~/src/main/java/hello/Greeter.java
 -'  1  0  ~/src/main/java/hello/HelloWorld.java
 -'  8  4  ~/pom.xml
@@ -152,6 +152,20 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/src/test/java/testhello/TestHelloWorld.java
+	"	1	18
+	^	1	19
+	.	1	18
+	+	15	2
+	+	14	44
+	+	11	0
+	+	6	21
+	+	8	23
+	+	11	30
+	+	10	7
+	+	11	0
+	+	1	18
+
 > ~/pom.xml
 	"	64	0
 	^	63	0
@@ -191,15 +205,6 @@
 	+	52	0
 	+	10	0
 	+	62	19
-
-> ~/src/test/java/testhello/TestHelloWorld.java
-	"	7	0
-	^	7	0
-	.	6	21
-	+	13	2
-	+	12	44
-	+	9	0
-	+	6	21
 
 > ~/src/main/java/hello/Greeter.java
 	"	1	0
