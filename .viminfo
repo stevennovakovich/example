@@ -19,31 +19,31 @@
 
 # Registers:
 ""1	LINE	0
-	  @Test
-"2	LINE	0
 	
+"2	LINE	0
+	    </dependencies>
 "3	LINE	0
-	    </build>
+	        </dependency>
 "4	LINE	0
-	        </plugins>
+	           <version>4.11</version>
 "5	LINE	0
-	            </plugin>
+	           <artifactId>junit</artifactId>
 "6	LINE	0
-	                </executions>
+	           <groupId>junit</groupId>
 "7	LINE	0
-	                   </execution>
+	        <dependency>
 "8	LINE	0
-	                         </goals>
+	    <dependencies>
 "9	LINE	0
-	                              <goal>report</goal>
+	  @Test
 "-	CHAR	0
 	"
 
 # File marks:
-'0  7  0  ~/src/test/java/testhello/TestHelloWorld.java
-'1  1  0  ~/pom.xml
-'2  9  2  ~/src/test/java/testhello/TestHelloWorld.java
-'3  63  9  ~/pom.xml
+'0  64  0  ~/pom.xml
+'1  7  0  ~/src/test/java/testhello/TestHelloWorld.java
+'2  1  0  ~/pom.xml
+'3  9  2  ~/src/test/java/testhello/TestHelloWorld.java
 '4  12  44  ~/src/test/java/testhello/TestHelloWorld.java
 '5  1  0  ~/src/main/java/hello/Greeter.java
 '6  1  0  ~/src/main/java/hello/HelloWorld.java
@@ -52,11 +52,11 @@
 '9  5  32  ~/README.md
 
 # Jumplist (newest first):
+-'  64  0  ~/pom.xml
+-'  1  0  ~/pom.xml
 -'  7  0  ~/src/test/java/testhello/TestHelloWorld.java
 -'  1  0  ~/src/test/java/testhello/TestHelloWorld.java
--'  1  0  ~/pom.xml
 -'  9  2  ~/src/test/java/testhello/TestHelloWorld.java
--'  63  9  ~/pom.xml
 -'  12  44  ~/src/test/java/testhello/TestHelloWorld.java
 -'  1  0  ~/src/main/java/hello/Greeter.java
 -'  1  0  ~/src/main/java/hello/HelloWorld.java
@@ -149,9 +149,48 @@
 -'  1  0  /etc/apache2/sites-available/jenkins.conf
 -'  3  4  /etc/apache2/sites-available/jenkins.conf
 -'  1  0  /etc/apache2/sites-available/jenkins.conf
--'  3  4  /etc/apache2/sites-available/jenkins.conf
 
 # History of marks within files (newest to oldest):
+
+> ~/pom.xml
+	"	64	0
+	^	63	0
+	.	62	19
+	+	64	0
+	+	64	3
+	+	64	7
+	+	64	11
+	+	64	16
+	+	64	16
+	+	64	16
+	+	64	16
+	+	64	16
+	+	64	16
+	+	64	16
+	+	64	16
+	+	64	19
+	+	64	24
+	+	64	24
+	+	64	29
+	+	64	24
+	+	64	18
+	+	64	18
+	+	64	24
+	+	64	24
+	+	64	24
+	+	64	29
+	+	64	24
+	+	64	17
+	+	64	14
+	+	64	18
+	+	64	15
+	+	64	11
+	+	64	7
+	+	64	4
+	+	64	0
+	+	52	0
+	+	10	0
+	+	62	19
 
 > ~/src/test/java/testhello/TestHelloWorld.java
 	"	7	0
@@ -161,44 +200,6 @@
 	+	12	44
 	+	9	0
 	+	6	21
-
-> ~/pom.xml
-	"	1	0
-	^	60	21
-	.	60	0
-	+	63	0
-	+	63	3
-	+	63	7
-	+	63	11
-	+	63	16
-	+	63	16
-	+	63	16
-	+	63	16
-	+	63	16
-	+	63	16
-	+	63	16
-	+	63	16
-	+	63	19
-	+	63	24
-	+	63	24
-	+	63	29
-	+	63	24
-	+	63	18
-	+	63	18
-	+	63	24
-	+	63	24
-	+	63	24
-	+	63	29
-	+	63	24
-	+	63	17
-	+	63	14
-	+	63	18
-	+	63	15
-	+	63	11
-	+	63	7
-	+	63	4
-	+	63	0
-	+	60	0
 
 > ~/src/main/java/hello/Greeter.java
 	"	1	0
