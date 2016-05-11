@@ -19,47 +19,47 @@
 
 # Registers:
 ""1	LINE	0
-	
+	  @Test
 "2	LINE	0
-	    </build>
+	
 "3	LINE	0
-	        </plugins>
+	    </build>
 "4	LINE	0
-	            </plugin>
+	        </plugins>
 "5	LINE	0
-	                </executions>
+	            </plugin>
 "6	LINE	0
-	                   </execution>
+	                </executions>
 "7	LINE	0
-	                         </goals>
+	                   </execution>
 "8	LINE	0
-	                              <goal>report</goal>
+	                         </goals>
 "9	LINE	0
-	                         <goals>
+	                              <goal>report</goal>
 "-	CHAR	0
 	"
 
 # File marks:
-'0  63  9  ~/pom.xml
-'1  12  44  ~/src/test/java/testhello/TestHelloWorld.java
-'2  1  0  ~/src/main/java/hello/Greeter.java
-'3  1  0  ~/src/main/java/hello/HelloWorld.java
-'4  8  4  ~/pom.xml
-'5  8  0  ~/src/test/java/testhello/TestHelloWorld.java
+'0  8  2  ~/src/test/java/testhello/TestHelloWorld.java
+'1  63  9  ~/pom.xml
+'2  11  44  ~/src/test/java/testhello/TestHelloWorld.java
+'3  1  0  ~/src/main/java/hello/Greeter.java
+'4  1  0  ~/src/main/java/hello/HelloWorld.java
+'5  8  4  ~/pom.xml
 '6  6  33  ~/README.md
 '7  5  32  ~/README.md
 '8  4  34  ~/README.md
 '9  3  27  ~/README.md
 
 # Jumplist (newest first):
+-'  8  2  ~/src/test/java/testhello/TestHelloWorld.java
+-'  1  0  ~/src/test/java/testhello/TestHelloWorld.java
 -'  63  9  ~/pom.xml
 -'  1  0  ~/pom.xml
--'  12  44  ~/src/test/java/testhello/TestHelloWorld.java
--'  1  0  ~/src/test/java/testhello/TestHelloWorld.java
+-'  11  44  ~/src/test/java/testhello/TestHelloWorld.java
 -'  1  0  ~/src/main/java/hello/Greeter.java
 -'  1  0  ~/src/main/java/hello/HelloWorld.java
 -'  8  4  ~/pom.xml
--'  8  0  ~/src/test/java/testhello/TestHelloWorld.java
 -'  6  33  ~/README.md
 -'  1  0  ~/README.md
 -'  5  32  ~/README.md
@@ -149,9 +149,16 @@
 -'  3  4  /etc/apache2/sites-available/jenkins.conf
 -'  1  0  /etc/apache2/sites-available/jenkins.conf
 -'  3  4  /etc/apache2/sites-available/jenkins.conf
--'  1  0  /etc/apache2/sites-available/jenkins.conf
 
 # History of marks within files (newest to oldest):
+
+> ~/src/test/java/testhello/TestHelloWorld.java
+	"	8	2
+	^	11	45
+	.	8	0
+	+	12	2
+	+	11	44
+	+	8	0
 
 > ~/pom.xml
 	"	63	9
@@ -190,13 +197,6 @@
 	+	63	4
 	+	63	0
 	+	60	0
-
-> ~/src/test/java/testhello/TestHelloWorld.java
-	"	12	44
-	^	12	45
-	.	12	44
-	+	13	2
-	+	12	44
 
 > ~/src/main/java/hello/Greeter.java
 	"	1	0
