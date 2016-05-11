@@ -18,7 +18,7 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-"1	LINE	0
+""1	LINE	0
 	
 "2	LINE	0
 	
@@ -27,37 +27,39 @@
 "4	LINE	0
 	
 "5	LINE	0
-	    </dependencies>
+	
 "6	LINE	0
-	        </dependency>
+	    </dependencies>
 "7	LINE	0
-	           <version>4.11</version>
+	        </dependency>
 "8	LINE	0
-	           <artifactId>junit</artifactId>
+	           <version>4.11</version>
 "9	LINE	0
-	           <groupId>junit</groupId>
-""-	CHAR	0
+	           <artifactId>junit</artifactId>
+"-	CHAR	0
 	i
 
 # File marks:
-'0  21  46  ~/src/test/java/testgreeter/TestGreeter.java
-'1  8  31  ~/src/main/java/hello/Greeter.java
-'2  1  0  ~/src/test/java/testgreeter/TestGreeter.java
-'3  7  0  ~/README.md
-'4  1  0  /etc/apache2/sites-available/jenkins.conf
-'5  3  4  /etc/apache2/sites-available/jenkins.conf
-'6  20  67  ~/pom.xml
-'7  31  31  ~/pom.xml
-'8  1  0  ~/pom.xml
-'9  1  18  ~/src/test/java/testhello/TestHelloWorld.java
+'0  8  0  ~/README.md
+'1  1  0  ~/src/main/java/hello/HelloWorld.java
+'2  21  46  ~/src/test/java/testgreeter/TestGreeter.java
+'3  8  31  ~/src/main/java/hello/Greeter.java
+'4  1  0  ~/src/test/java/testgreeter/TestGreeter.java
+'5  7  0  ~/README.md
+'6  1  0  /etc/apache2/sites-available/jenkins.conf
+'7  3  4  /etc/apache2/sites-available/jenkins.conf
+'8  20  67  ~/pom.xml
+'9  31  31  ~/pom.xml
 
 # Jumplist (newest first):
+-'  8  0  ~/README.md
+-'  1  0  ~/README.md
+-'  1  0  ~/src/main/java/hello/HelloWorld.java
 -'  21  46  ~/src/test/java/testgreeter/TestGreeter.java
 -'  1  0  ~/src/test/java/testgreeter/TestGreeter.java
 -'  8  31  ~/src/main/java/hello/Greeter.java
 -'  1  0  ~/src/main/java/hello/Greeter.java
 -'  7  0  ~/README.md
--'  1  0  ~/README.md
 -'  1  0  /etc/apache2/sites-available/jenkins.conf
 -'  3  4  /etc/apache2/sites-available/jenkins.conf
 -'  20  67  ~/pom.xml
@@ -68,7 +70,6 @@
 -'  7  0  ~/src/test/java/testhello/TestHelloWorld.java
 -'  11  2  ~/src/test/java/testhello/TestHelloWorld.java
 -'  14  44  ~/src/test/java/testhello/TestHelloWorld.java
--'  1  0  ~/src/main/java/hello/HelloWorld.java
 -'  8  4  ~/pom.xml
 -'  6  33  ~/README.md
 -'  5  32  ~/README.md
@@ -83,7 +84,6 @@
 -'  7  0  ~/src/test/java/testhello/TestHelloWorld.java
 -'  11  2  ~/src/test/java/testhello/TestHelloWorld.java
 -'  14  44  ~/src/test/java/testhello/TestHelloWorld.java
--'  1  0  ~/src/main/java/hello/HelloWorld.java
 -'  8  4  ~/pom.xml
 -'  1  0  /etc/apache2/sites-available/jenkins.conf
 -'  3  4  /etc/apache2/sites-available/jenkins.conf
@@ -95,7 +95,6 @@
 -'  7  0  ~/src/test/java/testhello/TestHelloWorld.java
 -'  11  2  ~/src/test/java/testhello/TestHelloWorld.java
 -'  14  44  ~/src/test/java/testhello/TestHelloWorld.java
--'  1  0  ~/src/main/java/hello/HelloWorld.java
 -'  8  4  ~/pom.xml
 -'  20  67  ~/pom.xml
 -'  1  0  ~/pom.xml
@@ -105,10 +104,7 @@
 -'  7  0  ~/src/test/java/testhello/TestHelloWorld.java
 -'  11  2  ~/src/test/java/testhello/TestHelloWorld.java
 -'  14  44  ~/src/test/java/testhello/TestHelloWorld.java
--'  1  0  ~/src/main/java/hello/HelloWorld.java
 -'  8  4  ~/pom.xml
--'  7  0  ~/README.md
--'  1  0  ~/README.md
 -'  1  0  /etc/apache2/sites-available/jenkins.conf
 -'  3  4  /etc/apache2/sites-available/jenkins.conf
 -'  20  67  ~/pom.xml
@@ -119,13 +115,7 @@
 -'  7  0  ~/src/test/java/testhello/TestHelloWorld.java
 -'  11  2  ~/src/test/java/testhello/TestHelloWorld.java
 -'  14  44  ~/src/test/java/testhello/TestHelloWorld.java
--'  1  0  ~/src/main/java/hello/HelloWorld.java
 -'  8  4  ~/pom.xml
--'  6  33  ~/README.md
--'  5  32  ~/README.md
--'  4  34  ~/README.md
--'  3  27  ~/README.md
--'  2  22  ~/README.md
 -'  20  67  ~/pom.xml
 -'  1  0  ~/pom.xml
 -'  31  31  ~/pom.xml
@@ -134,7 +124,6 @@
 -'  7  0  ~/src/test/java/testhello/TestHelloWorld.java
 -'  11  2  ~/src/test/java/testhello/TestHelloWorld.java
 -'  14  44  ~/src/test/java/testhello/TestHelloWorld.java
--'  1  0  ~/src/main/java/hello/HelloWorld.java
 -'  8  4  ~/pom.xml
 -'  1  0  /etc/apache2/sites-available/jenkins.conf
 -'  3  4  /etc/apache2/sites-available/jenkins.conf
@@ -148,9 +137,29 @@
 -'  14  44  ~/src/test/java/testhello/TestHelloWorld.java
 -'  8  31  ~/src/main/java/hello/Greeter.java
 -'  1  0  ~/src/main/java/hello/Greeter.java
--'  7  0  ~/README.md
+-'  1  0  ~/src/main/java/hello/HelloWorld.java
+-'  21  46  ~/src/test/java/testgreeter/TestGreeter.java
+-'  1  0  ~/src/test/java/testgreeter/TestGreeter.java
+-'  8  31  ~/src/main/java/hello/Greeter.java
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	"	8	0
+	.	9	0
+	+	1	12
+	+	2	23
+	+	3	28
+	+	4	35
+	+	5	33
+	+	6	34
+	+	7	36
+	+	9	0
+	+	8	50
+	+	9	0
+
+> ~/src/main/java/hello/HelloWorld.java
+	"	1	0
 
 > ~/src/test/java/testgreeter/TestGreeter.java
 	"	21	46
@@ -168,18 +177,6 @@
 	.	8	31
 	+	9	4
 	+	8	31
-
-> ~/README.md
-	"	7	0
-	.	8	0
-	+	1	12
-	+	2	23
-	+	3	28
-	+	4	35
-	+	5	33
-	+	6	34
-	+	7	36
-	+	8	0
 
 > /etc/apache2/sites-available/jenkins.conf
 	"	1	0
@@ -269,6 +266,3 @@
 	+	10	7
 	+	11	0
 	+	1	18
-
-> ~/src/main/java/hello/HelloWorld.java
-	"	1	0
