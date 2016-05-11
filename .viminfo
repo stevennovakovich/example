@@ -18,30 +18,47 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-"1	LINE	0
+""1	LINE	0
 	
-""-	CHAR	0
+"2	LINE	0
+	    </build>
+"3	LINE	0
+	        </plugins>
+"4	LINE	0
+	            </plugin>
+"5	LINE	0
+	                </executions>
+"6	LINE	0
+	                   </execution>
+"7	LINE	0
+	                         </goals>
+"8	LINE	0
+	                              <goal>report</goal>
+"9	LINE	0
+	                         <goals>
+"-	CHAR	0
 	"
 
 # File marks:
-'0  12  44  ~/src/test/java/testhello/TestHelloWorld.java
-'1  1  0  ~/src/main/java/hello/Greeter.java
-'2  1  0  ~/src/main/java/hello/HelloWorld.java
-'3  8  4  ~/pom.xml
-'4  8  0  ~/src/test/java/testhello/TestHelloWorld.java
-'5  6  33  ~/README.md
-'6  5  32  ~/README.md
-'7  4  34  ~/README.md
-'8  3  27  ~/README.md
-'9  2  22  ~/README.md
+'0  63  9  ~/pom.xml
+'1  12  44  ~/src/test/java/testhello/TestHelloWorld.java
+'2  1  0  ~/src/main/java/hello/Greeter.java
+'3  1  0  ~/src/main/java/hello/HelloWorld.java
+'4  8  4  ~/pom.xml
+'5  8  0  ~/src/test/java/testhello/TestHelloWorld.java
+'6  6  33  ~/README.md
+'7  5  32  ~/README.md
+'8  4  34  ~/README.md
+'9  3  27  ~/README.md
 
 # Jumplist (newest first):
+-'  63  9  ~/pom.xml
+-'  1  0  ~/pom.xml
 -'  12  44  ~/src/test/java/testhello/TestHelloWorld.java
 -'  1  0  ~/src/test/java/testhello/TestHelloWorld.java
 -'  1  0  ~/src/main/java/hello/Greeter.java
 -'  1  0  ~/src/main/java/hello/HelloWorld.java
 -'  8  4  ~/pom.xml
--'  1  0  ~/pom.xml
 -'  8  0  ~/src/test/java/testhello/TestHelloWorld.java
 -'  6  33  ~/README.md
 -'  1  0  ~/README.md
@@ -136,6 +153,44 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/pom.xml
+	"	63	9
+	^	60	21
+	.	60	0
+	+	63	0
+	+	63	3
+	+	63	7
+	+	63	11
+	+	63	16
+	+	63	16
+	+	63	16
+	+	63	16
+	+	63	16
+	+	63	16
+	+	63	16
+	+	63	16
+	+	63	19
+	+	63	24
+	+	63	24
+	+	63	29
+	+	63	24
+	+	63	18
+	+	63	18
+	+	63	24
+	+	63	24
+	+	63	24
+	+	63	29
+	+	63	24
+	+	63	17
+	+	63	14
+	+	63	18
+	+	63	15
+	+	63	11
+	+	63	7
+	+	63	4
+	+	63	0
+	+	60	0
+
 > ~/src/test/java/testhello/TestHelloWorld.java
 	"	12	44
 	^	12	45
@@ -148,42 +203,6 @@
 
 > ~/src/main/java/hello/HelloWorld.java
 	"	1	0
-
-> ~/pom.xml
-	"	8	4
-	^	67	5
-	.	67	4
-	+	67	0
-	+	44	3
-	+	45	7
-	+	46	11
-	+	47	16
-	+	48	16
-	+	49	16
-	+	50	16
-	+	47	16
-	+	48	16
-	+	49	16
-	+	50	16
-	+	51	19
-	+	52	24
-	+	53	24
-	+	54	29
-	+	55	24
-	+	56	18
-	+	57	18
-	+	58	24
-	+	59	24
-	+	60	24
-	+	61	29
-	+	62	24
-	+	63	17
-	+	64	14
-	+	63	18
-	+	64	15
-	+	65	11
-	+	66	7
-	+	67	4
 
 > ~/README.md
 	"	6	33
